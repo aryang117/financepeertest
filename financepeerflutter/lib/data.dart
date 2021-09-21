@@ -17,4 +17,11 @@ class Data {
         body: json['body'],
         title: json['title']);
   }
+
+  Map<String, dynamic> toJson() => {
+        'id': this.id,
+        'userId': this.userId,
+        'body': this.body,
+        title: this.title
+      };
 }
