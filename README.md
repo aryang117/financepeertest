@@ -32,7 +32,7 @@
   ## Cloning the Project Repo
   If you like using the terminal
    - Navigate to where you want to clone this repo
-   - ```git clone https://github.com/aryang117/yellowclassTest.git```
+   - ```git clone https://github.com/aryang117/financepeertest.git```
   <br> </br>
   
   If you wish to clone using the browser only
@@ -53,20 +53,16 @@
   To install this on a browser, after building the web app
   - Open your browser and navigate to the address, as mentioned in the console
   - It should be running now now! Check it out! (Assuming no errors occured during build)
+
+  ## Django Server
+  To run the django server, navigate to the \notes\ subdirectory of the project and in your console, type
+  ``python manage.py runserver``
   
   
   # Technical Discussion
   ## Packages Used
   These are the different 3rd Party Packages I used to complete this project
-  - firebase_core(^1.5.0) - firebase core functionality
-  - firebase_auth (^3.0.2) - firebase authentication
-  - google_sign_in (^5.0.7) - to implement Sign In via Google
   - http (^0.13.3) - to implement API calls
-  - flutter_signIn_button (^2.0.0) - To get Ready-Made Sign-in via Google button (only components/button no functionality
-
-  ## Platforms and APIs used
-  I had to use some 3rd Party APIs and Platforms to implement some required and optional functionalities of the app
-   - [Firebase / Firebase Auth](https://firebase.google.com) - To implement Sign in functionality
 
   ## Features Implemented
   
