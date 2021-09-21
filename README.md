@@ -1,5 +1,4 @@
 # FinancePeer Task
-  This repository was made for Yellow Class's take home task. 
   
 # Table of Contents
   - [Overview](#financepeer-task)
