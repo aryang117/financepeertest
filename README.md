@@ -68,10 +68,6 @@
   
   The app already fulfills all the requirements given in the problem statement. 
   
-  ### Optional Features Implemented
-  The App allows the user to persistently sign in anonymously or sign in via Google or skip the sign in.
-  Only signed in users are allowed to add new movies. 
-  
   ### Extra Features Implemented
   I added a few features that were not part of the problem statement, but they were added to help in development and are just tiny QoL (Quality of Life) features to make it easier to perform all operations of the app
   #### File Content Page
