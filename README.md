@@ -24,8 +24,6 @@
   ## Prerequisites
   To build this app, you will need -
   - [Flutter SDK](https://flutter.dev)
-  - [Firebase Project](https://firebase.google.com) - you will have to create your own project and add your own **google-services.json** (I have not included it in this repo)
-    - [Handy Tutorial to add Firebase into your flutter app](https://firebase.flutter.dev) 
   - Django and Python - for the server/api
 
 
